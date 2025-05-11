@@ -14,7 +14,7 @@ I'm a passionate developer who loves building and creating things for the web. I
 - More projects coming soon...
 
 ## 📫 How to Reach Me
-- GitHub: [@sanje](https://github.com/guru-ng)
+- GitHub: [@Grg](https://github.com/guru-ng)
 - LinkedIn: [Your LinkedIn Profile]
 - Email: [Your Email]
 

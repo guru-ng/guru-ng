@@ -10,11 +10,11 @@ I'm a passionate developer who loves building and creating things for the web. I
 - **Tools**: Git, VS Code, Docker
 
 ## 🌟 Featured Projects
-- **[Portfolio Website]([https://github.com/sanje/astro-theme-cactus](https://guru-ng.github.io/fluffy-octo-chainsaw/))** - A modern portfolio built with Astro and TailwindCSS
+- **[Portfolio Website] ([https://github.com/sanje/astro-theme-cactus](https://guru-ng.github.io/fluffy-octo-chainsaw/))** - A modern portfolio built with Astro and TailwindCSS
 - More projects coming soon...
 
 ## 📫 How to Reach Me
-- GitHub: [@sanje](https://github.com/sanje)
+- GitHub: [@sanje](https://github.com/guru-ng)
 - LinkedIn: [Your LinkedIn Profile]
 - Email: [Your Email]
 

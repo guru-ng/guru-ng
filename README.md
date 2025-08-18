@@ -11,6 +11,7 @@ I'm a passionate developer who loves building and creating things for the web. I
 
 ## 🌟 Featured Projects
 - **[Portfolio Website](https://guru-ng.github.io/fluffy-octo-chainsaw/)** - A modern portfolio built with Astro and TailwindCSS
+- **[Expenditure Website(https://guru-ng.github.io/expenditure-View-page/)** - A static page built with html,tailwind and js.
 - More projects coming soon...
 
 ## 📫 How to Reach Me

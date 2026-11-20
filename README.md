@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=System+Engineer+based+in+Osaka+%F0%9F%87%AF%F0%9F%87%B5;Flutter+%26+Web+Developer;Building+apps+for+life+in+Japan" alt="Typing intro" />
 
+<a href="https://snjv.club/"><img src="https://img.shields.io/badge/Portfolio-snjv.club-F7768E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://kotobaquestapp.snjv.club"><img src="https://img.shields.io/badge/KotobaQuest-Live-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Location-Osaka,_Japan-BB9AF7?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/JLPT-N2-9ECE6A?style=flat-square" />
@@ -29,7 +30,7 @@
 | 🎮 **[KotobaQuest](https://kotobaquestapp.snjv.club)** | Games for learning Japanese | Web |
 | 💴 **Okaneri** | Privacy-first personal finance app for life in Japan · *coming soon to Google Play* | Flutter |
 | 🧮 **[PRcalc](https://github.com/guru-ng/PRcalc)** | Estimates eligibility for Japanese permanent residency (unofficial) | Web |
-| 🌐 **[Portfolio](https://guru-ng.github.io/fluffy-octo-chainsaw/)** | Personal portfolio site | Astro · Tailwind |
+| 🌐 **[Portfolio](https://snjv.club/)** | My personal portfolio site | Web |
 | 📊 **[Expenditure View](https://guru-ng.github.io/expenditure-View-page/)** | Static expense overview page | HTML · Tailwind · JS |
 
 ---
@@ -80,6 +81,7 @@
 
 ### 📫 Connect
 
+<a href="https://snjv.club/"><img src="https://img.shields.io/badge/Portfolio-snjv.club-F7768E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/guru-ng"><img src="https://img.shields.io/badge/GitHub-guru--ng-181717?style=flat-square&logo=github" /></a>
 <!-- Add LinkedIn: replace YOUR-ID and uncomment
 <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
